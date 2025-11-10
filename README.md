@@ -1,19 +1,19 @@
 
 # 🛒 Next.js E-Commerce
 
-> Un proiect modern de e-commerce construit cu Next.js, TypeScript și TailwindCSS.
+> A modern e-commerce project built with Next.js, TypeScript, and TailwindCSS.
 
 ![Next.js Logo](public/next.svg)
 
-## 🚀 Funcționalități
+## 🚀 Features
 
-- Interfață modernă și responsivă
-- Fonturi optimizate cu Geist
-- Configurare rapidă și ușoară
-- Suport pentru mod light/dark
-- Deploy instant pe Vercel
+- Modern and responsive UI
+- Optimized fonts with Geist
+- Fast and easy setup
+- Light/Dark mode support
+- Instant deploy on Vercel
 
-## 📦 Tehnologii folosite
+## 📦 Technologies Used
 
 - [Next.js](https://nextjs.org/) 15+
 - [React](https://react.dev/) 19+
@@ -21,24 +21,24 @@
 - [TailwindCSS](https://tailwindcss.com/)
 - [Vercel](https://vercel.com/)
 
-## 🔧 Instalare & rulare
+## 🔧 Installation & Usage
 
-1. Clonează acest repository:
+1. Clone this repository:
 	```bash
 	git clone https://github.com/USER/nextjs_project_e-commerce.git
 	cd nextjs_project_e-commerce-master
 	```
-2. Instalează dependențele:
+2. Install dependencies:
 	```bash
 	npm install
 	```
-3. Pornește serverul de dezvoltare:
+3. Start the development server:
 	```bash
 	npm run dev
 	```
-4. Accesează [http://localhost:3000](http://localhost:3000) în browser.
+4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## 🗂 Structura proiectului
+## 🗂 Project Structure
 
 ```
 ├── app/
@@ -60,11 +60,11 @@
 └── README.md
 ```
 
-## 📖 Documentație
+## 📖 Documentation
 
-- [Documentație Next.js](https://nextjs.org/docs)
-- [Tutorial Next.js](https://nextjs.org/learn)
-- [Deploy pe Vercel](https://vercel.com/new)
+- [Next.js Documentation](https://nextjs.org/docs)
+- [Next.js Tutorial](https://nextjs.org/learn)
+- [Deploy on Vercel](https://vercel.com/new)
 
 ---
 
